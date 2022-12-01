@@ -1,0 +1,403 @@
+Total amount of papers: 201
+                Shepherd, C, Kalbantner, J, Semal, B & Markantonakis, K 2022, 'A Side-channel Analysis of Sensor Multiplexing for Covert Channels and Application Fingerprinting on Mobile Devices'.
+            
+                Shepherd, C, Semal, B & Markantonakis, K 2022, 'Investigating Black-Box Function Recognition Using Hardware Performance Counters', IEEE Transactions on Computers.
+            
+                Thomas-Brans, F, Heckmann, T, Markantonakis, K & Sauveron, D 2022, 'New Diagnostic Forensic Protocol for Damaged Secure Digital Memory Cards', IEEE Access, vol. 10, pp. 33742 - 33757. https://doi.org/10.1109/ACCESS.2022.3158958
+            
+                Vagal , V, Markantonakis, K & Shepherd, C 2021, A New Approach to Complex Dynamic Geofencing for Unmanned Aerial Vehicles. in 40th IEEE Digital Avionics Systems Conference (DASC). IEEE.
+            
+                Shepherd, C, Markantonakis, K & Jaloyan, G-A 2021, LIRA-V: Lightweight Remote Attestation for Constrained RISC-V Devices. in IEEE Workshop on the Internet of Safe Things: IEEE Security and Privacy Workshops (in conjunction with IEEE Security & Privacy '21). vol. 1, IEEE, pp. 221-227. https://doi.org/10.1109/SPW53761.2021.00036
+            
+                Semal, B, Markantonakis, K, Mayes, K & Kalbantner, J 2021, 'One Covert Channel to Rule Them All: A Practical Approach to Data Exfiltration in the Cloud', Paper presented at 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2020), Guangzhou, China, 29/12/20 - 1/01/21. https://doi.org/10.1109/TrustCom50675.2020.00053
+            
+                Kalbantner, J, Markantonakis, K, Hurley-Smith, D, Akram, RN & Semal, B 2021, 'P2PEdge: A Decentralised, Scalable P2P Architecture for Energy Trading in Real-Time', Energies, vol. 14, no. 3, 606, pp. 1-25. https://doi.org/10.3390/en14030606
+            
+                Shepherd, C, Markantonakis, K, Van Heijningen, N, Aboulkassimi, D, Gaine, C, Heckmann, T & Naccache, D 2021, 'Physical Fault Injection and Side-Channel Attacks on Mobile Devices: A Comprehensive Analysis', Computers and Security. https://doi.org/10.1016/j.cose.2021.102471
+            
+                 Yang, A, Boshoff, D, Hu, Q, Hancke, G, Luo, X, Weng, J, Mayes, K & Markantonakis, K 2021, 'Privacy-preserving Group Authentication for RFID Tags Using Bit-Collision Patterns', IEEE Internet of Things Journal. https://doi.org/10.1109/JIOT.2021.3059047
+            
+                HU, Q, DU, B, Markantonakis, K & Hancke, G 2020, 'A Session Hijacking Attack against a Device-Assisted Physical Layer Key Agreement', IEEE Transactions on Industrial Informatics, vol. 16, no. 1, pp. 691-702. https://doi.org/10.1109/TII.2019.2923662
+            
+                Semal, B, Markantonakis, K, Akram, RN & Kalbantner, J 2020, 'A Study on Microarchitectural Covert Channel Vulnerabilities in Infrastructure-as-a-Service', Paper presented at 2nd Workshop on Cloud Security and Privacy, Rome, Italy, 19/10/20 - 22/10/20 pp. 360-377. https://doi.org/10.1007/978-3-030-61638-0_20
+            
+                Semal, B, Markantonakis, K, Akram, RN & Kalbantner, J 2020, 'Leaky Controller: Cross-VM Memory Controller Covert Channel on Multi-Core Systems', Paper presented at 35th International Conference on ICT Systems Security and Privacy Protection, Maribor, Slovenia, 26/05/20 - 28/05/20 pp. 3-16. https://doi.org/10.1007/978-3-030-58201-2_1
+            
+                Jaloyan, G-A, Markantonakis, K, Akram, RN, Robin, D, Mayes, K & Naccache, D 2020, 'Return-Oriented Programming on RISC-V', Paper presented at ACM ASIACCS 2020, Taipei, Taiwan, Province of China, 5/10/20 - 9/10/20 pp. 471-480. https://doi.org/10.1145/3320269.3384738
+            
+                Tapsell, J, Akram, RN & Markantonakis, K 2019, 'An Evaluation of the Security of the Bitcoin Peer-To-Peer Network', Paper presented at The 2018 IEEE Conference on Blockchain , Halifax, Canada, 30/07/18 - 3/08/18 pp. 1-6. https://doi.org/10.1109/Cybermatics_2018.2018.00195
+            
+                Lee, R, Markantonakis, K & Akram, RN 2019, 'Ensuring Secure Application Execution and Platform Specific Execution in Embedded Devices', ACM Transactions on Embedded Computing Systems, vol. 18, no. 3, 26, pp. 1-21. https://doi.org/10.1145/3284361
+            
+                Hardwick, FS, Gioulis, A, Akram, RN & Markantonakis, K 2019, 'E-Voting With Blockchain: An E-Voting Protocol with Decentralisation and Voter Privacy', Paper presented at The 2018 IEEE Conference on Blockchain , Halifax, Canada, 30/07/18 - 3/08/18 pp. 1-7. https://doi.org/10.1109/Cybermatics_2018.2018.00262
+            
+                Nguyen, DKA, Akram, RN, Markantonakis, K, Luo, Z & Watkins, C 2019, Location Tracking Using Smartphone Accelerometer and Magnetometer Traces. in The First Location Privacy Workshop (LPW 2019), the 14th International Conference on Availability, Reliability and Security (ARES 2019)., 96, Association for Computing Machinery (ACM), pp. 1-9. https://doi.org/10.1145/3339252.3340518
+            
+                Shepherd, C, Akram, RN & Markantonakis, K 2019, Remote Credential Management with Mutual Attestation for Trusted Execution Environments. in 12th IFIP International Conference on Information Security Theory and Practice (WISTP '18). Lecture Notes in Computer Science, vol. 11469, Springer, pp. 157-173, 12th IFIP International Conference on Information Security Theory and Practice, Brussels, Belgium, 10/12/18. https://doi.org/10.1007/978-3-030-20074-9_12
+            
+                Heckmann, T, McEvoy, J, Markantonakis, K, Akram, RN & Naccache, D 2019, 'Removing epoxy underfill between neighbouring components using acid for component chip-off', digital investigation, vol. 29, pp. 198-209. https://doi.org/10.1016/j.diin.2019.04.003
+            
+                Semal, B, Markantonakis, K & Akram, RN 2018, 'A Certificateless Group Authenticated Key Agreement Protocol for Secure Communication in Untrusted UAV Networks', Paper presented at The 37th DASC Digital Avionics Systems Conference, London, United Kingdom, 23/09/18 - 27/09/18 pp. 1-8. https://doi.org/10.1109/DASC.2018.8569730
+            
+                Akram, RN, Markantonakis, K, Mayes, K, Bonnefoi, PF, Cherif, A, Sauveron, D & Chaumette, S 2018, A Secure and Trusted Channel Protocol for UAVs Fleets. in Information Security Theory and Practice - 11th IFIP WG 11.2 International Conference, WISTP 2017, Proceedings. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 10741 LNCS, Springer-Verlag, pp. 3-24, 11th IFIP WG 11.2 International Conference on Information Security Theory and Practice, WISTP 2017, Heraklion, Greece, 28/09/17. https://doi.org/10.1007/978-3-319-93524-9_1
+            
+                Tapsell, J, Akram, RN & Markantonakis, K 2018, 'Consumer Centric Data Control, Tracking and Transparency - A Position Paper', Paper presented at The 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications, New York, United States, 31/07/18 - 3/08/18 pp. 1-6. https://doi.org/10.1109/TrustCom/BigDataSE.2018.00191
+            
+                Meister, JA, Akram, RN & Markantonakis, K 2018, Deep Learning Application in Security and Privacy - Theory and Practice: A Position Paper. in O Blazy & CY Yeun (eds), The 12th WISTP International Conference on Information Security Theory and Practice (WISTP'2018). Lecture Notes in Computer Science, Springer-Verlag, Brussels, Belgium. <https://www.springerprofessional.de/en/deep-learning-application-in-security-and-privacy-theory-and-pra/16718018>
+            
+                Shepherd, C, Akram, RN & Markantonakis, K 2018, EmLog: Tamper-Resistant System Logging for Constrained Devices with TEEs. in 11th IFIP International Conference on Information Security Theory and Practice (WISTP'17). Lecture Notes in Computer Science, vol. 10741, Springer, pp. 75-92. https://doi.org/10.1007/978-3-319-93524-9_5
+            
+                Hardwick, FS, Akram, RN & Markantonakis, K 2018, 'Fair and Transparent Blockchain based Tendering Framework - A Step Towards Open Governance', Paper presented at The 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications, New York, United States, 31/07/18 - 3/08/18 pp. 1-6. https://doi.org/10.1109/TrustCom/BigDataSE.2018.00185
+            
+                Heckmann, T, Markantonakis, K, Naccache, D & Souvignet, T 2018, 'Forensic smartphone analysis using adhesives: Transplantation of Package on Package components', digital investigation, vol. 26, pp. 29-39. https://doi.org/10.1016/j.diin.2018.05.005
+            
+                Gurulian, I, Markantonakis, K, Frank, E & Akram, RN 2018, 'Good Vibrations: Artificial Ambience-Based Relay Attack Detection', Paper presented at The 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications, New York, United States, 31/07/18 - 3/08/18 pp. 1-9. https://doi.org/10.1109/TrustCom/BigDataSE.2018.00075
+            
+                Gurulian, I, Hancke, G, Markantonakis, K & Akram, RN 2018, 'May The Force Be With You: Force-Based Relay Attack Detection', Paper presented at 17th Smart Card Research and Advanced Application Conference, Lugano, Switzerland, 13/11/17 - 15/11/17 pp. 142-159. https://doi.org/10.1007/978-3-319-75208-2_9
+            
+                Jayasinghe, D, Cobourne, S, Markantonakis, K, Akram, RN & Mayes, K 2018, Philanthropy on the Blockchain. in The 11th WISTP International Conference on Information Security Theory and Practice (WISTP'2017). Lecture Notes in Computer Science (LNCS), vol. 10741, Springer, pp. 25-38. https://doi.org/10.1007/978-3-319-93524-9_2
+            
+                Shepherd, C, Petitcolas, F, Akram, RN & Markantonakis, K 2017, An Exploratory Analysis of the Security Risks of the Internet of Things in Finance. in J Lopez, S Fischer-Hübner & C Lambrinoudakis (eds), Trust, Privacy and Security in Digital Business: 14th International Conference, TrustBus 2017, Lyon, France, August 30-31, 2017, Proceedings. Lecture Notes in Computer Science, vol. 10442, Springer-Verlag, pp. 164-179, 14th International Conference on Trust, Privacy & Security in Digital Business, Lyon, France, 28/08/17. https://doi.org/10.1007/978-3-319-64483-7_11
+            
+                Gurulian, I, Markantonakis, K, Akram, R & Mayes, K 2017, Artificial Ambient Environments for Proximity Critical Applications. in ARES '17: Proceedings of the 12th International Conference on Availability, Reliability and Security., 5, ACM, pp. 1-10. https://doi.org/10.1145/3098954.3098964
+            
+                Kyrillidis, L, Cobourne, S, Mayes, K & Markantonakis, K 2017, A Smart Card Web Server in the Web of Things. in SAI Intelligent Systems Conference 2016 (IntelliSys 2016). Lecture Notes in Networks and Systems , vol. 16, Springer, pp. 769-784. https://doi.org/10.1007/978-3-319-56991-8_55
+            
+                Hassan, M, Markantonakis, K & Akram, R 2017, Can you call the software in your device firmware? in e-Business Engineering (ICEBE), 2016 IEEE 13th International Conference on. IEEE Computer Society Press, Macau, China, pp. 1-8, The 13th IEEE International Conference on e-Business Engineering (ICEBE 2016), Macau, China, 4/11/16. https://doi.org/10.1109/ICEBE.2016.040
+            
+                Ducray, B, Cobourne, S, Mayes, K & Markantonakis, K 2017, 'Comparison of dynamic biometrie security characteristics against other biometrics', Paper presented at IEEE International Conference on Communications, Paris, France, 21/05/17 - 25/05/17 pp. 1-7. https://doi.org/10.1109/ICC.2017.7996938
+            
+                Umar, A, Akram, RN, Mayes, K & Markantonakis, K 2017, Ecosystems of Trusted Execution Environment on smartphones - a potentially bumpy road. in P Urien & S Piramuthu (eds), Mobile and Secure Services (MobiSecServ), 2017 Third International Conference on. IEEE, pp. 1-8, 3rd International Conference on Mobile and Secure Services (MobiSecServ), Miami Beach, 11/02/17. https://doi.org/10.1109/MOBISECSERV.2017.7886559
+            
+                Jayasinghe, D, Markantonakis, K, Akram, R & Mayes, K 2017, Enhancing EMV Tokenisation with Dynamic Transaction Tokens. in G Hancke & K Markantonakis (eds), Radio Frequency Identification and IoT Security: RFIDSec 2016. Lecture Notes in Computer Science , vol. 10155, Springer, pp. 107-122. https://doi.org/10.1007/978-3-319-62024-4_8
+            
+                Shepherd, C, Akram, R & Markantonakis, K 2017, Establishing Mutually Trusted Channels for Remote Sensing Devices with Trusted Execution Environments. in 12th International Conference on Availability, Reliability and Security (ARES '17). ACM, pp. 1-10, 12th International Conference on Availability, Reliability and Security , Reggio Calabria, Italy, 29/08/17. https://doi.org/10.1145/3098954.3098971
+            
+                Haken, G, Markantonakis, K, Gurulian, I, Shepherd, C & Akram, R 2017, Evaluation of Apple iDevice Sensors as a Potential Relay Attack Countermeasure for Apple Pay. in Proceedings of the 3rd ACM International Workshop on Cyber-Physical System Security: CPSS '17. ACM, New York, pp. 21-32 , 3rd ACM Cyber-Physical System Security Workshop (CPSS 2017), Abu Dhabi, United Arab Emirates, 2/04/17. https://doi.org/10.1145/3055186.3055201
+            
+                Jayasinghe, D, Markantonakis, K, Gurulian, I, Akram, R & Mayes, K 2017, Extending EMV Tokenised Payments To Offline-Environments. in The 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-16). IEEE Computer Society, pp. 1-8. https://doi.org/10.1109/TrustCom.2016.0095
+            
+                Ducray, B, Cobourne, S, Mayes, K & Markantonakis, K 2017, 'Gesture recognition implemented on a personal limited device', Paper presented at  International Conference on Information and Communication Systems, Irbid, Jordan, 4/04/17 - 6/04/17 pp. 1-6. https://doi.org/10.1109/IACS.2017.7921966
+            
+                Mansor, H, Markantonakis, K, Akram, R, Mayes, K & Gurulian, I 2017, Log Your Car: The Non-invasive Vehicle Forensics. in Y Xiang, K Ren & D Feng (eds), 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-16). IEEE Computer Society, pp. 974-982. https://doi.org/10.1109/TrustCom.2016.0164
+            
+                Mansor, H, Markantonakis, K, Akram, R, Mayes, K & Gurulian, I 2017, Log Your Car: Reliable Maintenance Services Record. in Information Security and Cryptology: 12th International Conference, Inscrypt 2016, Beijing, China, November 4-6, 2016, Revised Selected Papers. vol. 10143, Lecture Notes in Computer Science , vol. 10143, Springer, pp. 484-504, 12th International Conference on Information Security and Cryptology (Inscrypt), Beijing, China, 4/11/16. https://doi.org/10.1007/978-3-319-54705-3_30
+            
+                Markantonakis, K & Akram, RN 2017, Multi-Application Smart Card Platforms and Operating Systems. in K Mayes & K Markantonakis (eds), Smart Cards, Tokens, Security and Applications. Springer International Publishing, Cham, pp. 59-92. https://doi.org/10.1007/978-3-319-50500-8_3
+            
+                Gurulian, I, Shepherd, C, Markantonakis, K, Frank, E, Akram, R & Mayes, K 2017, On the Effectiveness of Ambient Sensing for Detecting NFC Relay Attacks. in Trustcom/BigDataSE/ICESS, 2017 IEEE. pp. 41-49, 16th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, Sydney, Australia, 1/08/17. https://doi.org/10.1109/Trustcom/BigDataSE/ICESS.2017.218
+            
+                Gurulian, I, Akram, R, Markantonakis, K & Mayes, K 2017, Preventing relay attacks in mobile transactions using infrared light. in SAC '17 Proceedings of the 32nd Annual ACM Symposium on Applied Computing. ACM, pp. 1724-1731, The 32nd ACM Symposium on Applied Computing, Marrakesh, Morocco, 3/04/17. https://doi.org/10.1145/3019612.3019794
+            
+                Lee, R, Markantonakis, K & Akram, R 2017, Provisioning Software with Hardware-Software Binding. in FARES '17 Proceedings of the 12th International Workshop on Frontiers in Availability, Reliability and Security., 49, ACM, pp. 1-9. https://doi.org/10.1145/3098954.3103158
+            
+                Gurulian, I, Markantonakis, K, Shepherd, C, Frank, E & Akram, R 2017, Proximity Assurances Based on Natural and Artificial Ambient Environments. in 10th International Conference, SecITC 2017, Bucharest, Romania, June 8–9, 2017, Revised Selected Papers. Security and Cryptology, vol. 10543, Springer, pp. 83-103, 10th International Conference on Security for Information Technology and Communications, Bucharest, Romania, 8/07/16. https://doi.org/10.1007/978-3-319-69284-5
+            
+                Shepherd, C, Arfaoui, G, Gurulian, I, Lee, R, Markantonakis, K, Akram, R, Sauveron, D & Conchon, E 2017, Secure and Trusted Execution: Past, Present, and Future - A Critical Review in the Context of the Internet of Things and Cyber-Physical Systems. in Y Xiang, K Ren & D Feng (eds), 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-16). . IEEE Computer Society, pp. 168-177. https://doi.org/10.1109/TrustCom.2016.0060
+            
+                Akram, R, Bonnefoi, P-F, Chaumette, S, Markantonakis, K & Sauveron, D 2017, Secure Autonomous UAVs Fleets by Using New Specific Embedded Secure Elements. in Y Xiang, K Ren & D Feng (eds), 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-16). IEEE Computer Society, pp. 606-614. https://doi.org/10.1109/TrustCom.2016.0116
+            
+                Akram, RN, Markantonakis, K, Mayes, K, Habachi, O, Sauveron, D, Steyven, A & Chaumette, S 2017, 'Security, privacy and safety evaluation of dynamic and static fleets of drones', Paper presented at The 36th IEEE/AIAA Digital Avionics Systems Conference , St. Petersburg, United States, 17/09/17 - 21/09/17 pp. 1-12. https://doi.org/10.1109/DASC.2017.8101984
+            
+                Mtita, C, Laurent, M, Sauveron, D, Akram, RN, Markantonakis, K & Chaumette, S 2017, Serverless protocols for inventory and tracking with a UAV. in Digital Avionics Systems Conference (DASC), 2017 IEEE/AIAA 36th. IEEE Computer Society Press, St. Petersburg, Florida, USA, pp. 1-11, The 36th IEEE/AIAA Digital Avionics Systems Conference , St. Petersburg, United States, 17/09/17. https://doi.org/10.1109/DASC.2017.8102113
+            
+                Sauveron, D, Akram, RN & Markantonakis, K 2017, Smart Card Reader and Mobile APIs. in K Mayes & K Markantonakis (eds), Smart Cards, Tokens, Security and Applications. Springer International Publishing, Cham, pp. 305-349. https://doi.org/10.1007/978-3-319-50500-8_12
+            
+                Shepherd, C, Gurulian, I, Frank, E, Markantonakis, K, Akram, R, Mayes, K & Panaousis, E 2017, The Applicability of Ambient Sensors as Proximity Evidence for NFC Transactions. in Mobile Security Technologies (MoST '17), IEEE Security & Privacy Workshops. IEEE, pp. 179-188, IEEE Mobile Security Technologies (MOST) 2017, San Jose, United States, 25/05/17. https://doi.org/10.1109/SPW.2017.29
+            
+                Umar, A, Gurulian, I, Mayes, K & Markantonakis, K 2017, Tokenisation Blacklisting Using Linkable Group Signatures. in Security and Privacy in Communication Networks: 12th EAI International Conference on Security and Privacy in Communication Networks. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, pp. 182-198. https://doi.org/10.1007/978-3-319-59608-2_10
+            
+                Shepherd, C, Akram, R & Markantonakis, K 2017, Towards trusted execution of multi-modal continuous authentication schemes. in Proceedings of the 32nd ACM SIGAPP Symposium On Applied Computing (SAC '17). ACM, Marrakech, Morocco, pp. 1444-1451. https://doi.org/10.1145/3019612.3019652
+            
+                Akram, R, Markantonakis, K, Mayes, K, Bonnefoi, P-F, Sauveron, D & Chaumette, S 2016, An efficient, secure and trusted channel protocol for avionics wireless networks. in A Roy & W Schuster (eds), 2016 IEEE/AIAA 35th Digital Avionics Systems Conference (DASC). IEEE Computer Society, pp. 1-10. https://doi.org/10.1109/DASC.2016.7777967
+            
+                Markantonakis, K & Akram, R 2016, A secure and trusted boot process for Avionics Wireless Networks. in 2016 Integrated Communications Navigation and Surveillance (ICNS). IEEE Computer Society, pp. 1C3-1-1C3-9. https://doi.org/10.1109/ICNSURV.2016.7486322
+            
+                Lee, R, Markantonakis, K & Akram, R 2016, Binding Hardware and Software to Prevent Firmware Modification and Device Counterfeiting. in CPSS '16 Proceedings of the 2nd ACM International Workshop on Cyber-Physical System Security. Proceedings of the 2nd ACM International Workshop on Cyber-Physical System Security, ACM Press, pp. 70-81. https://doi.org/10.1145/2899015.2899029
+            
+                Akram, R & Markantonakis, K 2016, Challenges of security and trust of mobile devices as digital avionics component. in Integrated Communications Navigation and Surveillance (ICNS), 2016. IEEE Computer Society, pp. 1C4-1-1C4-11. https://doi.org/10.1109/ICNSURV.2016.7486323
+            
+                Markantonakis, K, Akram, R & Msgna, M 2016, Secure and Trusted Application Execution on Embedded Devices. in D Naccache & E Simion (eds), 8th International Conference on Security for Information Technology and Communications – SECITC’15 . vol. 9522, Springer, pp. 3-24. https://doi.org/10.1007/978-3-319-27179-8_1
+            
+                Msgna, M, Ferradi, H, Akram, R & Markantonakis, K 2016, Secure Application Execution in Mobile Devices. in PA Ryan, D Naccache & J-J Quisquater (eds), The New Codebreakers: Essays Dedicated to David Kahn on the Occasion of His 85th Birthday. Lecture Notes in Computer Science , vol. 9100, Security and Cryptology - sub series , Springer, pp. 417-438. https://doi.org/10.1007/978-3-662-49301-4_26
+            
+                Akram, R, Markantonakis, K, Mayes, K, Bonnefoi, P-F, Sauveron, D & Chaumette, S 2016, Security and performance comparison of different secure channel protocols for Avionics Wireless Networks. in A Roy & W Schuster (eds), 2016 IEEE/AIAA 35th Digital Avionics Systems Conference (DASC). IEEE Computer Society, pp. 1-8. https://doi.org/10.1109/DASC.2016.7777966
+            
+                Abu Ghazalah, S & Markantonakis, K 2016, 'Two Rounds RFID Grouping-Proof Protocol', Paper presented at The 2016 IEEE International Conference on RFID , Orlando, United States, 3/05/16 - 5/05/16 pp. 193-203. https://doi.org/10.1109/RFID.2016.7488022
+            
+                Gurulian, I, Markantonakis, K, Cavallaro, L & Mayes, K 2016, 'You can’t touch this: Consumer-centric android application repackaging detection', Future Generation Computer Systems, vol. 65, pp. 1-9. https://doi.org/10.1016/j.future.2016.05.021, https://doi.org/10.1016/j.future.2017.11.011
+            
+                Akram, RN, Markantonakis, K & Sauveron, D 2015, 'A Novel Consumer-Centric Card Management Architecture and Potential Security Issues', Journal of Information Science, vol. 321, pp. 150–161. https://doi.org/10.1016/j.ins.2014.12.049
+            
+                Bonnefoi, P-F, Dusart, P, Sauveron, D, Akram, R & Markantonakis, K 2015, A Set of Efficient Privacy Protection Enforcing Lightweight Authentication Protocols for Low-Cost RFID Tags. in The 14th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-15). IEEE Computer Society, pp. 1-9. https://doi.org/10.1109/Trustcom.2015.426
+            
+                Ducray, B, Cobourne, S, Mayes, K & Markantonakis, K 2015, Authentication based on a changeable biometric using gesture recognition with the Kinect™. in 2015 International Conference on Biometrics (ICB). IEEE, pp. 38-45 . https://doi.org/10.1109/ICB.2015.7139073
+            
+                Akram, R, Markantonakis, K, Kariyawasam, S, Ayub, S, Seem, A & Atkinson, R 2015, Challenges of security and trust in Avionics Wireless Networks. in 2015 IEEE/AIAA 34th Digital Avionics Systems Conference (DASC). IEEE Computer Society, pp. 4B1-1-4B1-12. https://doi.org/10.1109/DASC.2015.7311416
+            
+                Mansor, H, Markantonakis, K, Akram, R & Mayes, K 2015, Don’t Brick Your Car: Firmware Confidentiality and Rollback for Vehicles. in 10th International Conference on Availability, Reliability and Security: ARES 2015. IEEE, pp. 139-148. https://doi.org/10.1109/ARES.2015.58
+            
+                Jayasinghe, D, Akram, R, Markantonakis, K, Rantos, K & Mayes, K 2015, Enhancing EMV Online PIN Verification. in The 14th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-15): International Symposium on Recent Advances of Trust, Security and Privacy in Computing and Communications (IEEE RATSP-15). IEEE Computer Society, Helsinki, Finland, pp. 1-10. https://doi.org/10.1109/Trustcom.2015.451
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2015, Enhancing Java Runtime Environment for Smart Cards Against Runtime Attacks. in PYA Ryan & E Weippl (eds), Computer Security -- ESORICS 2015: 20th European Symposium on Research in Computer Security, Vienna, Austria, September 21-25, 2015, Proceedings, Part II. Lecture Notes in Computer Science, vol. 9327, Springer, Vienna, Austria, pp. 541-560. https://doi.org/10.1007/978-3-319-24177-7_27
+            
+                Akram, R, Markantonakis, K & Sauveron, D 2015, Feature Interaction Problems in Smart Cards with Dynamic Application Lifecycle and their Countermeasures. in Z Yan & P Mueller (eds), The 14th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-15). IEEE Computer Society, Helsinki, Finland, pp. 1-8. https://doi.org/10.1109/Trustcom.2015.410
+            
+                Mansor, H, Markantonakis, K, Akram, R & Mayes, K 2015, Let’s Get Mobile: Secure FOTA for Automotive System. in Network and System Security. vol. 9408, Lecture Notes in Computer Science, vol. 9408, Springer, pp. 503-510. https://doi.org/10.1007/978-3-319-25645-0_38
+            
+                Umar, A, Mayes, K & Markantonakis, K 2015, Performance Variation in Host-Based Card Emulation Compared to a Hardware Security Element. in 2015 First Conference on Mobile and Secure Services (MOBISECSERV). IEEE, pp. 1-6. https://doi.org/10.1109/MOBISECSERV.2015.7072872
+            
+                Cobourne, S, Hili, G, Mayes, K & Markantonakis, K 2015, Practical Attacks on Virtual Worlds. in J Lopez, I Ray & B Crispo (eds), Risks and Security of Internet and Systems: 9th International Conference, CRiSIS 2014, Trento, Italy, August 27-29, 2014, Revised Selected Papers. 1 edn, vol. 8924, Lecture Notes in Computer Science, Springer International Publishing, pp. 180-195. https://doi.org/10.1007/978-3-319-17127-2
+            
+                Abu Ghazalah, S, Markantonakis, K & Mayes, K 2014, 'A Formally Verified Mutual Authentication Protocol for Low-Cost RFID Tags', International Journal of RFID Security and Cryprography (IJRFIDSC), vol. 3, no. 2, pp. 156-169. https://doi.org/10.20533/ijrfidsc.2046.3715.2014.0018
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2014, An Introduction to Java Card Programming. in Secure Smart Embedded Devices, Platforms and Applications. Springer, pp. 497-513. https://doi.org/10.1007/978-1-4614-7915-4_22
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2014, An Introduction to the Trusted Platform Module and Mobile Trusted Module. in K Markantonakis & K Mayes (eds), Secure Smart Embedded Devices, Platforms and Applications. Springer, pp. 71-93. https://doi.org/10.1007/978-1-4614-7915-4_4
+            
+                Cobourne, S, Hili, G, Mayes, K & Markantonakis, K 2014, Avatar Voting in Virtual Worlds. in 5th International Conference on Information and Communication Systems (ICICS), 2014 . IEEE, pp. 1 - 6 . https://doi.org/10.1109/IACS.2014.6841982
+            
+                Mansor, H, Markantonakis, K & Mayes, K 2014, CAN Bus Risk Analysis Revisit. in D Naccache & D Sauveron (eds), Information Security Theory and Practice. Securing the Internet of Things. vol. 8501, Lecture Notes in Computer Science, vol. 8501, Springer, pp. 170-179. https://doi.org/10.1007/978-3-662-43826-8_13
+            
+                Akram, RN, Markantonakis, K & Sauveron, D 2014, Collaborative and Ubiquitous Consumer Oriented Trusted Service Manager. in Y Liu (ed.), The 13th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-14). IEEE Computer Society Press.
+            
+                Abu Ghazalah, S, Markantonakis, K & Mayes, K 2014, Enhancing the Key Distribution Model in the RFID-Enabled Supply Chains. in The 8th IEEE International Symposium on Security and Multimodality in Pervasive Environment (SMPE 2014). IEEE Computer Society Press, pp. 871- 878, The 8th IEEE International Symposium on Security and Multimodality in Pervasive Environment, Victoria, Canada, 13/05/14.
+            
+                Jayasinghe, D, Markantonakis, K & Mayes, K 2014, Optimistic Fair-Exchange with Anonymity for Bitcoin Users. in The 11th IEEE International Conference on e-Business Engineering (IEEE ICEBE-14). IEEE Computer Society, Guangzhou, China, pp. 44-51. https://doi.org/10.1109/ICEBE.2014.20
+            
+                Msgna, M, Markantonakis, K & Mayes, K 2014, Precise Instruction-Level Side Channel Profiling of Embedded Processors. in Information Security Practice and Experience: 10th International Conference, ISPEC 2014, Fuzhou, China, May 5-8, 2014. Proceedings. vol. 8434, Lecture Notes in Computer Science, pp. 129-143. https://doi.org/10.1007/978-3-319-06320-1_11
+            
+                Cobourne, S, Kyrillidis, L, Mayes, K & Markantonakis, K 2014, 'Remote E-Voting Using the Smart Card Web Server', International Journal of Secure Software Engineering (IJSSE), vol. 5, no. 1, pp. 39-60. https://doi.org/10.4018/ijsse.2014010103
+            
+                Akram, RN & Markantonakis, K 2014, Rethinking the Smart Card Technology, Invited Paper. in T Tryfonas & I Askoxylakis (eds), 16th International Conference on Human-Computer Interaction. Springer.
+            
+                Abu Ghazalah, S, Markantonakis, K & Mayes, K 2014, Secure Improved Cloud-Based RFID Authentication Protocol. in The 9th DPM International Workshop on Data Privacy Management (DPM 2014). Springer.
+            
+                Abu Ghazalah, S, Markantonakis, K & Mayes, K 2014, Secure Mobile Payment on NFC-Enabled Mobile Phones Formally Analysed Using CasperFDR. in The 13th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-14). IEEE Computer Society.
+            
+                Mayes, K & Markantonakis, K 2014, Secure Smart, Embedded Devices, Platforms and Applications. Springer.
+            
+                Hili, G, Mayes, K & Markantonakis, K 2014, The BIOS and Rootkits. in K Markantonakis & DK Mayes (eds), Secure Smart Embedded Devices, Platforms and Applications. Springer, pp. 369-381. https://doi.org/10.1007/978-1-4614-7915-4_16
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2014, Trusted Platform Module for Smart Cards. in O Alfandi (ed.), 6th IFIP International Conference on New Technologies, Mobility and Security (NTMS). IEEE Computer Society Press, Dubai, UAE.
+            
+                Msgna, M, Markantonakis, K, Naccache, D & Mayes, K 2014, Verifying Software Integrity in Embedded Systems: A Side Channel Approach. in Constructive Side Channel Analysis and Secure Design: 5th International Workshop, COSADE 2014, Paris, France, April 13-15, 2014. Revised Selected Papers. Lecture Notes in Computer Science, Paris, France, pp. 261-280. https://doi.org/10.1007/978-3-319-10175-0_18
+            
+                Abu Ghazalah, S, Markantonakis, K & Mayes, K 2013, A Mutual Authentication Protocol for Low-Cost RFID Tags Formally Verified Using CasperFDR and AVISPA. in The 8th Internet Technology and Secured Transactions (ICITST),    : The 5th International Workshop on RFID Security and Cryptography (RISC 2013). IEEE Computer Society Press, London, pp. 44-51.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2013, A Secure and Trusted Channel Protocol for User Centric Smart Card Ownership Model. in 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-13). IEEE Computer Society Press, Melbourne, Australia.
+            
+                Abu Ghazalah, S, Markantonakis, K & Mayes, K 2013, A Vulnerability in the Song Authentication Protocol for Low-Cost RFID Tags. in The 25th IFIP International Information Security Conference (SEC 2013). vol. 405, Springer-Verlag, pp. 102-110.
+            
+                Kyrillidis, L, Chazalet, B, Mayes, K & Markantonakis, K 2013, Card-present Transactions On The Internet Using The Smart Card Web Server. in Proceedings of TrustCom 2013. IEEE Computer Society, pp. 611-619, 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, Melbourne, Australia, 16/07/13. https://doi.org/10.1109/TrustCom.2013.75
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2013, Recovering from Lost Digital Wallet. in FGM Y. Xiang & S Ruj (eds), The 4th IEEE International Symposium on Trust, Security, and Privacy for Emerging Applications (TSP-13).
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2013, Remote Attestation Mechanism based on Physical Unclonable Functions. in CM J. Zhou & J Weng (eds), The 2013 Workshop on RFID and IoT Security (RFIDsec'13 Asia). IOS Press, Guangzhou, China.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2013, Remote Attestation Mechanism for User Centric Smart Cards using Pseudorandom Number Generators. in S Qing & J Zhou (eds), 5th International Conference on Information and Communications Security (ICICS 2013). Springer, Beijing, China.
+            
+                Akram, RN & Markantonakis, K 2013, Smart Cards: State-of-the-Art to Future Directions, Invited Paper. in C Douligeris & D Serpanos (eds), IEEE International Symposium on Signal Processing and Information Technology (ISSPIT 2013). IEEE Computer Science, Athens, Greece.
+            
+                Msgna, M, Markantonakis, K, Mayes, K & Akram, RN 2013, Subscriber Centric Conditional Access System for Pay-TV Systems. in IEEE 10th International Conference on e-Business Engineering (ICEBE): IEEE Computer Society. pp. 459-455. https://doi.org/10.1109/ICEBE.2013.70
+            
+                Msgna, M, Markantonakis, K & Mayes, K 2013, The B-Side of Side Channel Leakage: Control Flow Security in Embedded Systems. in Security and Privacy in Communication Networks: 9th International ICST Conference. vol. 127, Lecture Notes of the Institute for Computer Sciences, Social Information and Telecommunication Engineering, vol. 127, Sydney, Australia, pp. 288-304. https://doi.org/10.1007/978-3-319-04283-1_18
+            
+                Cobourne, S, Mayes, K & Markantonakis, K 2013, Using the Smart Card Web Server in Secure Branchless Banking. in J Lopez, X Huang & R Sandhu (eds), Network and System Security: 7th International Conference, NSS 2013, Madrid, Spain, June 3-4, 2013. Proceedings. vol. 7873, Lecture Notes In Computer Science, Springer-Verlag, pp. 250-263. https://doi.org/10.1007/978-3-642-38631-2_19
+            
+                Kyrillidis, L, Hili, G, Cobourne, S, Mayes, K & Markantonakis, K 2013, Virtual World Authentication Using the Smart Card Web Server. in S Thampi, P Atrey, C-I Fan & G Martinez Perez (eds), Security in Computing and Communications. Communications in Computer and Information Science, vol. 377, Springer-Verlag, pp. 30-41, International Symposium on Security in Computing and Communications, Mysore, India, 22/08/13. https://doi.org/10.1007/978-3-642-40576-1_4
+            
+                Mayes, K, Kyrillidis, L, Markantonakis, K & Dong, S 2012, 'A Brief Comparison of NFC Smart Posters and Quick Response Codes', NFC & Contactless, pp. 74-78. <http://www.crisptelecom.com/files/nfcworld.pdf>
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2012, A Privacy Preserving Application Acquisition Protocol. in FGM Geyong Min (ed.), 11th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-12). IEEE Computer Society Press, Liverpool, United Kingdom.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2012, Building the Bridges -- A Proposal for Merging different Paradigms in Mobile NFC Ecosystem. in S Xie (ed.), The 8th International Conference on Computational Intelligence and Security (CIS 2012). IEEE Computer Society Press.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2012, Coopetitive Architecture to Support a Dynamic and Scalable NFC based Mobile Services Architecture. in KP Chow & LCK Hui (eds), The 2012 International Conference on Information and Communications Security (ICICS 2012). LNCS, Springer.
+            
+                Kyrillidis, L, Cobourne, S, Mayes, K, Dong, S & Markantonakis, K 2012, Distributed e-Voting using the Smart Card Web Server. in F Martinelli, J-L Lanet, W Fitzgerald & S Foley (eds), Proceedings of the 7th International Conference on Risks and Security of Internet and Systems (CRiSIS 2012). IEEE, 7th International Conference on Risks and Security of Internet and Systems (CRiSIS 2012), Cork, Ireland, 10/10/12. https://doi.org/10.1109/CRISIS.2012.6378952
+            
+                Francis, L, Hancke, G, Mayes, K & Markantonakis, K 2012, Practical Relay Attack on Contactless Transactions by Using NFC Mobile Phones. in N-W Lo & Y Li (eds), The 2012 Workshop on RFID and IoT Security (RFIDsec 2012 Asia). vol. 8, Cryptology and Information Security Series, vol. 8, IOS Press, pp. 21 - 32, The 2012 Workshop on RFID and IoT Security (RFIDsec 2012 Asia), Taipei, Taiwan, Province of China, 8/11/12.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2012, Pseudorandom Number Generation in Smart Cards: An Implementation, Performance and Randomness Analysis. in A Mana & M Klonowski (eds), 5th International Conference on New Technologies, Mobility and Security (NTMS).
+            
+                Leng, X, Hancke, G, Mayes, K & Markantonakis, K 2012, Tag Group Authentication using Bit Collisions. in Information Security South Africa (ISSA). IEEE.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2011, Application-Binding Protocol in the User Centric Smart Card Ownership Model. in U Parampalli & P Hawkes (eds), the 16th Australasian Conference on Information Security and Privacy (ACISP). LNCS, Springer, Melbourne, Australia, pp. 208-225.
+            
+                Mayes, K, Markantonakis, K, Ahmad, Z & Dong, S 2011, 'Considerations for Mobile Authentication in the Cloud', Information Security Technical Report, vol. 16, pp. 123-130.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2011, Cross-Platform Application Sharing Mechanism. in H Wang, SR Tate & Y Xiang (eds), 10th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-11). IEEE Computer Society Press, Changsha, China.
+            
+                Mayes, K, Cobourne, S & Markantonakis, K 2011, 'Near Field Technology in Challenging Environments', Smart Card Technology International, vol. NFC and Contactless, pp. 65-69.
+            
+                Sauveron, D (Guest ed.), Markantonakis, K (Guest ed.), Mayes, K (Guest ed.) & Verikoukis, C (Guest ed.) 2011, 'Security and Resilience for Smart Devices and Applications', EURASIP Journal on Wireless Communications and Networking, vol. 2011.
+            
+                Kyrillidis, L, Mayes, K & Markantonakis, K 2011, Smart card web server. in S-I Ao & L Gelman (eds), Electrical Engineering and Applied Computing. Lecture Notes in Electrical Engineering, vol. 90, Springer, pp. 221-232. https://doi.org/10.1007/978-94-007-1192-1_19
+            
+                Kyrillidis, L, Mayes, K & Markantonakis, K 2011, Smart Card Web Server. in S Ao & L Gelman (eds), Electrical Engineering and Applied Computing. vol. 90, Lecture Notes in Electrical Engineering, Springer Netherland, pp. 221-232. https://doi.org/10.1007/978-94-007-1192-1_19
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2011, User Centric Security Model for Tamper-Resistant Devices. in J Li & J-Y Chung (eds), 8th IEEE International Conference on e-Business Engineering (ICEBE 2011). IEEE Computer Society Press.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2010, A Dynamic and Ubiquitous Smart Card Security Assurance and Validation Mechanism. in K Rannenberg & V Varadharajan (eds), 25th IFIP International Information Security Conference (SEC 2010). IFIP AICT Series, Springer, Brisbane, Australia, pp. 161-171. https://doi.org/10.1007/978-3-642-15257-3_15
+            
+                Francis, L, Mayes, K, Hancke, G & Markantonakis, K 2010, A location based security framework for authenticating mobile phones. in M-PAC '10: Proceedings of the 2nd International Workshop on Middleware for Pervasive Mobile and Embedded Computing. ACM, New York, NY, pp. 5:1-5:8. https://doi.org/10.1145/1890791.1890796
+            
+                Leng, X, Lien, Y-H, Mayes, K & Markantonakis, K 2010, 'An RFID grouping proof protocol exploiting anti-collision algorithm for subgroup dividing', International Journal of Security and Networks, vol. 5, pp. 79-86. https://doi.org/10.1504/IJSN.2010.032206
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2010, A Paradigm Shift in Smart Card Ownership Model. in BO Apduhan, O Gervasi, A Iglesias, D Taniar & M Gavrilova (eds), Proceedings of the 2010 International Conference on Computational Science and Its Applications (ICCSA 2010). IEEE Computer Society Press, Fukuoka, Japan, pp. 191-200. https://doi.org/10.1109/ICCSA.2010.52
+            
+                Francis, L, Hancke, G (ed.), Mayes, K (ed.) & Markantonakis, K (ed.) 2010, 'A Security Framework Model with Communication Protocol Translator Interface for Enhancing NFC Transactions', Paper presented at 2010 Sixth Advanced International Conference on Telecommunications, Barcelona, United Kingdom, 9/05/09 - 15/05/09 pp. 452-461. https://doi.org/http://doi.ieeecomputersociety.org/10.1109/AICT.2010.52
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2010, Firewall Mechanism in a User Centric Smart Card Ownership Model. in D Gollmann, J-L Lanet & J Iguchi-Cartigny (eds), Smart Card Research and Advanced Application, 9th IFIP WG 8.8/11.2 International Conference, CARDIS 2010. vol. 6035/2010, LNCS, Springer, Passau, Germany, pp. 118-132. https://doi.org/10.1007/978-3-642-12510-2
+            
+                Francis, L, Mayes, K, Markantonakis, K & Hancke, G 2010, NFC Security Threats. in T Courtney (ed.), Near Field Communications: Smart Card Technology International. pp. 42-47. <http://www.globalsmart.com>
+            
+                Francis, L, Hancke, G, Mayes, K & Markantonakis, K 2010, 'On the security issues of NFC enabled mobile phones', International Journal of Internet Technology and Secured Transactions, vol. 2, pp. 336-356. https://doi.org/10.1504/IJITST.2010.037408
+            
+                Francis, L, Hancke, G, Mayes, K & Markantonakis, K 2010, Practical NFC Peer-to-Peer Relay Attack Using Mobile Phones. in S Ors Yalcin (ed.), Radio Frequency Identification: Security and Privacy Issues: RFIDSec 2010. vol. 6370, Lecture Notes in Computer Science, vol. 6370, Springer Berlin / Heidelberg, pp. 35-49, RFIDSec 2010, Istanbul, Turkey, 8/06/10. <http://eprint.iacr.org/2010/228.pdf>
+            
+                Hancke, G, Markantonakis, K & Mayes, K 2010, 'Security challenges for user-oriented RFID applications within the "Internet of things"', Journal of Internet Technology, vol. 11, no. 3, pp. 307.
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2010, Simulator Problem in User Centric Smart Card Ownership Model. in HY Tang & X Fu (eds), 6th IEEE/IFIP International Symposium on Trusted Computing and Communications (TrustCom-10). IEEE Computer Society Press, HongKong, China. https://doi.org/10.1109/EUC.2010.108
+            
+                Mayes, K & Markantonakis, K 2010, Smart Cards, Tokens, Security and Applications. Springer. <http://books.google.co.uk/books?id=FpCqcQAACAAJ>
+            
+                Kyrillidis, L, Mayes, K & Markantonakis, K 2010, Web Server on a SIM Card. in SI Ao, L Gelman, DWL Hukins, A Hunter & AM Korsunsky (eds), Proceedings of the World Congress on Engineering: International Conference of Computer Science and Engineering. vol. I, Newswood Limited, pp. 253-259, World Congress on Engineering, London, United Kingdom, 30/06/10. <http://www.iaeng.org/publication/WCE2010/WCE2010_pp253-259.pdf>
+            
+                Hart, J, Markantonakis, K & Mayes, K 2010, 'Website Credential Storage and Two-Factor Web Authentication with a Java SIM', Information security theory and practices: security and privacy of pervasive systems and smart devices, vol. 6033, pp. 229-236. https://doi.org/10.1007/978-3-642-12368-9_17
+            
+                Askoxylakis, IG, Markantonakis, K, Tryfonas, T, May, J & Traganitis, A 2009, A Face Centered Cubic Key Agreement Mechanism for Mobile Ad Hoc Networks. in F Granelli, C Skianis, P Chatzimisios, Y Xiao, S Redana, O Akan, P Bellavista, J Cao, F Dressler, D Ferrari, M Gerla, H Kobayashi, S Palazzo, S Sahni, X Shen, M Stan, J Xiaohua, A Zomaya & G Coulson (eds), Mobile Lightweight Wireless Systems. vol. 13, Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, Springer Berlin / Heidelberg, pp. 103-113. <http://dx.doi.org/10.1007/978-3-642-03819-8_11>
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2009, Application Management Framework in User Centric Smart Card Ownership Model. in HY YOUM & M Yung (eds), The 10th International Workshop on Information Security Applications (WISA09). vol. 5932/2009, LNCS, Springer, Busan, Korea, pp. 20-35. https://doi.org/10.1007/978-3-642-10838-9_3
+            
+                Poulopoulos, G, Markantonakis, K & Mayes, K 2009, A secure and efficient mutual authentication protocol for low-cost RFID systems. in Proceedings - International Conference on Availability, Reliability and Security, ARES 2009. pp. 706-711. https://doi.org/10.1109/ARES.2009.83
+            
+                Markantonakis, K, Tunstall, M, Hancke, G, Askoxylakis, I & Mayes, K 2009, 'Attacking smart card systems: Theory and practice', Information Security Technical Report, vol. 14, pp. 46-56. https://doi.org/10.1016/j.istr.2009.06.001
+            
+                Hancke, GP, Mayes, KE & Markantonakis, K 2009, 'Confidence in smart token proximity: Relay attacks revisited', Computers and Security, vol. 28, no. 7, pp. 615 - 627. https://doi.org/DOI: 10.1016/j.cose.2009.06.001
+            
+                Akram, RN, Markantonakis, K & Mayes, K 2009, Location Based Application Availability. in R Meersman, P Herrero & T Dillon (eds), On the Move to Meaningful Internet Systems: OTM 2009 Workshops. vol. 5872/2009, LNCS, Springer, Vilamoura, Portugal, pp. 128 - 138. https://doi.org/10.1007/978-3-642-05290-3
+            
+                Francis, L, Hancke, GP, Mayes, K & Markantonakis, K 2009, Potential misuse of NFC enabled mobile phones with embedded security elements as contactless attack platforms. in ICITST'09. pp. 1-8.
+            
+                Leng, X, Lien, Y, Mayes, K, Markantonakis, K & Chiu, J-H 2009, Select Response Grouping Proof for RFID Tags. in Proceedings of the 2009 First Asian Conference on Intelligent Information and Database Systems. IEEE Computer Society Press, Washington, DC, USA, pp. 73-77. https://doi.org/10.1109/ACIIDS.2009.94
+            
+                Tunstall, M, Markantonakis, K, Sauveron, D & Mayes, K 2009, Smart Cards. in H Bidgoli (ed.), Handbook of Technology Management. John Wiley & Sons.
+            
+                Mayes, KE, Markantonakis, K & Hancke, G 2009, 'Transport ticketing security and fraud controls', Information Security Technical Report, vol. 14, no. 2, pp. 87-95. https://doi.org/10.1016/j.istr.2009.06.003
+            
+                Askoxylakis, IG, Sauveron, D, Markantonakis, K, Tryfonas, T & Traganitis, A 2008, A Body-Centered Cubic Method for Key Agreement in Dynamic Mobile Ad Hoc Networks. in Proceedings of the 2008 Second International Conference on Emerging Security Information, Systems and Technologies. IEEE Computer Society Press, Washington, DC, USA, pp. 193-202. https://doi.org/10.1109/SECURWARE.2008.42
+            
+                Francis, L, Mayes, K & Markantonakis, K 2008, An Architecture to Support Multiple Subscriber Identity Applications Accessing Multiple Mobile Telecommunication Access Network Systems. in THIRD 2008 INTERNATIONAL CONFERENCE ON CONVERGENCE AND HYBRID INFORMATION TECHNOLOGY,  VOL 2, PROCEEDINGS. IEEE COMPUTER SOC, LOS ALAMITOS, pp. 386-395.
+            
+                Malek, WW, Mayes, K & Markantonakis, K 2008, Fraud Detection and Prevention in Smart Card Based Environments Using Artificial Intelligence. in Proceedings of the 8th IFIP WG 8.8/11.2 international conference on Smart Card Research and Advanced Applications. CARDIS '08, Springer-Verlag, Berlin, Heidelberg, pp. 118-132. https://doi.org/10.1007/978-3-540-85893-5_9
+            
+                Leng, X, Mayes, K & Markantonakis, K 2008, 'HB-MP+ Protocol: An Improvement on the HB-MP Protocol', IEEE International Conference on RFID -- IEEE RFID 2008, pp. 118-124.
+            
+                Onieva, JA, D., S, S., C, D., G & Markantonakis, K (eds) 2008, 'Information Security Theory and Practices. Smart Devices, Convergence and Next Generation Networks'.
+            
+                Onieva, JA, Sauveron, D, Chaumette, S, Gollmann, D & Markantonakis, K 2008, 'Information Security Theory and Practices. Smart Devices, Convergence and Next Generation Networks'.
+            
+                Mayes, K, Markantonakis, K & Cid, C 2008, Mifare Classic Security Issues A System Perspective: Smart card Technology International, A Global Journal of Advanced Chip Technology. Smart Card Technology International.
+            
+                Mayes, KE & Markantonakis, K 2008, 'Mobile communication security controllers an evaluation paper', Information Security Technical Report, vol. 13, pp. 173-192. https://doi.org/10.1016/j.istr.2008.09.004
+            
+                Markantonakis, K, Mayes, K, Sauveron, D & Askoxylakis, IG 2008, Overview of Security Threats for Smart Cards in the Public Transport Industry. in Proceedings of the 2008 IEEE International Conference on e-Business Engineering. IEEE Computer Society Press, Washington, DC, USA, pp. 506-513. https://doi.org/10.1109/ICEBE.2008.91
+            
+                Eagles, K, Markantonakis, K & Mayes, K 2007, A comparative analysis of common threats, vulnerabilities, attacks and countermeasures within smart card and wireless sensor network node technologies. in Proceedings of the 1st IFIP TC6 /WG8.8 /WG11.2 international conference on Information security theory and practices: smart cards, mobile and ubiquitous computing systems. WISTP'07, Springer-Verlag, Berlin, Heidelberg, pp. 161-174. <http://portal.acm.org/citation.cfm?id=1763190.1763209>
+            
+                Zhang, Q, Markantonakis, K & Mayes, K 2007, A Fair and Anonymous E-commerce Scheme based on Compatible Keys and Digital Coins. in A Fair and Anonymous E-commerce Scheme based on Compatible Keys and Digital Coins. Springer-Verlag, China, The 3rd International SKLOIS Conference on Information Security and Cryptology (Inscrypt), Xining, China, 1/09/07.
+            
+                Markantonakis, K & Mayes, K 2007, 'Problems and prospects of multi application smart cards in the UK financial industry', Icebe 2007: ieee international conference on e-Business engineering, proceedings, pp. 447-452.
+            
+                Markantonakis, K, Mayes, K, Tunstall, M & Sauveron, D 2007, Smart Cards: Communication Protocols and Applications. in Smart Cards: Communication Protocols and Applications.
+            
+                Markantonakis, K, Mayes, K, Tunstall, M & Sauveron, D 2007, Smart card Security. in N Nadia, C Leandro dos Santos & M Luiza de Macedo (eds), Mobile Robots: The Evolutionary Approach. vol. 50, Studies in Computational Intelligence, vol. 50, pp. 205.
+            
+                Markantonakis, K, Piper, F & Mayes, K 2007, Smart Cards for Security and Assurance. in Managing Information Assurance in Financial Services. Information Science Publishing.
+            
+                Mayes, K & Markantonakis, K 2007, The Evolution of Mobile Security: The Silicon Trust Report. The Silicon Trust.
+            
+                Mayes, K & Markantonakis, K 2007, Will smart cards outsmart the criminals?. The Times Newspaper.
+            
+                Sauveron, D, Markantonakis, K, Bilas, A & Quisquater, J-J (eds) 2007, 'WISTP'07: Proceedings of the 1st IFIP TC6 /WG8.8 /WG11.2 international conference on Information security theory and practices: smart cards, mobile and ubiquitous computing systems'.
+            
+                Mayes, K, Markantonakis, K & Sirett, WG 2006, A behavioural approach to smart card application monitoring: Smart Card Technology International, The Global Journal of Advanced Card Technology. Smart Card Technology International.
+            
+                Zhang, Q, Markantonakis, K & Mayes, K 2006, 'A Mutual Authentication Enabled Fair-Exchange and Anonymous E-Payment Protocol', E-Commerce Technology, IEEE International Conference on, and Enterprise Computing, E-Commerce, and E-Services, IEEE International Conference on, vol. 0, pp. 20. https://doi.org/http://doi.ieeecomputersociety.org/10.1109/CEC-EEE.2006.6
+            
+                Zhang, Q, Markantonakis, K & Mayes, K 2006, A Practical Fair-Exchange E-Payment Protocol for Anonymous Purchase and Physical Delivery. in Proceedings of the IEEE International Conference on Computer Systems and Applications. IEEE Computer Society Press, Washington, DC, USA, pp. 851-858. https://doi.org/10.1109/AICCSA.2006.205188
+            
+                Sirett, WG, MacDonald, JA, Mayes, K & Markantonakis, K 2006, Design, Installation and Execution of a Security Agent for Mobile Stations. in J Domingo-Ferrer, J Posegga & D Schreckling (eds), CARDIS. vol. 3928, Lecture Notes in Computer Science, Springer, pp. 1-15. <http://dblp.uni-trier.de/db/conf/cardis/cardis2006.html#SirettMMM06>
+            
+                Sirett, WG, Markantonakis, K & Mayes, K 2006, 'Implementation of Temporally Aware Behaviour-Based Security in Smart Cards', Paper presented at 1st International Workshop on Secure Information Systems (SIS '06), Poland, 1/11/06.
+            
+                Tunstall, M, Markantonakis, K & Mayes, K 2006, Inhibiting Card Sharing Attacks. in H Yoshiura, K Sakurai, K Rannenberg, Y Murayama & S Kawamura (eds), Advances in Information and Computer Security. vol. 4266, Lecture Notes in Computer Science, Springer Berlin / Heidelberg, pp. 239-251. <http://dx.doi.org/10.1007/11908739_17>
+            
+                Mayes, KE & Markantonakis, K 2006, 'On the potential of high density smart cards', Information Security Technical Report, vol. 11, no. 3, pp. 147 - 153. https://doi.org/DOI: 10.1016/j.istr.2006.05.002
+            
+                Sirett, WG, Macdonald, JA, Mayes, K & Markantonakis, K 2006, Secure Deployment of Applications to Fielded Devices and Smart Cards. in Security in Information Systems. pp. 195-206.
+            
+                Sauveron, D, Dusart, P, Trotin, A, Markantonakis, K & Mayes, K 2006, Security Evaluation and Certification Process. in N Nedjah, A Abraham & M Luiza de Macedo (eds), Computational Intelligence in Information Assurance and Security. Springer-Verlag.
+            
+                Markantonakis, K, Tunstall, M & Mayes, K 2006, 'Security of Open Satellite TV Receivers', Paper presented at 7th Edition of e-smart conference and demos, Sophia Antipolis, French Riviera, France, 20/09/06 - 22/09/06.
+            
+                Mayes, K, Markantonakis, K & Chen, C 2006, Smart card Platform-Fingerprinting: Smart Card Technology International. in M Locke (ed.), Smart Card Technology International: The Global Journal of Advanced Card Technology. Smart Card Technology International, pp. 78.
+            
+                Markantonakis, K, Mayes, K, Piper, F & Tunstall, M 2006, Smart card Security. in N Nedjah, A Abraham & M Luiza de Macedo (eds), Computational Intelligence in Information Assurance and Security. Springer-Verlag.
+            
+                Sirett, WG, Markantonakis, K & Mayes, K 2006, Temporally Aware Behaviour-Based Security in Smart Cards. in Computational Intelligence and Security, 2006 International Conference on. vol. 1, pp. 604 -608. https://doi.org/10.1109/ICCIAS.2006.294206
+            
+                Chaumette, S, Markantonakis, K, Mayes, K & Sauveron, D 2006, 'The Mobile Java Card Grid Project: 7th Edition of e-smart conference and demos', Paper presented at 7th Edition of e-smart conference and demos, Sophia Antipolis, French Riviera, France, 20/09/06 - 22/09/06.
+            
+                Zhang, Q, Mayes, K & Markantonakis, K 2005, A Fair Biometric Enabled M-Payment Solution with Anonymity Support. in A Fair Biometric Enabled M-Payment Solution with Anonymity Support. Springer-Verlag, Workshop on Information Security Applications, Jeju, Korea, Republic of, 1/08/04.
+            
+                Zhang, Q, Mayes, K & Markantonakis, K 2005, A user-centric m-payment solution. in Mobile Technology, Applications and Systems, 2005 2nd International Conference on. pp. 8. https://doi.org/10.1109/MTAS.2005.207134
+            
+                Francis, L, Sirett, WG, Mayes, K & Markantonakis, K 2005, 'Countermeasures for attacks on satellite TV cards using open receivers', Paper presented at Third Australasian Information Security Workshop, Newcastle, Australia, 1/01/05 - 2/05/05 pp. 153--158. <http://portal.acm.org/citation.cfm?id=1082290.1082311>
+            
+                Papapanagiotou, K, Markantonakis, K, Zhang, Q, Sirett, W & Mayes, K 2005, On the Performance of Certificate Revocation Protocols Based on a Java Card Certificate Client Implementation. in R Sasaki, S Qing, E Okamoto & H Yoshiura (eds), Security and Privacy in the Age of Ubiquitous Computing. vol. 181, IFIP Advances in Information and Communication Technology, Springer Boston, pp. 551-563. <http://dx.doi.org/10.1007/0-387-25660-1_36>
+            
+                Markantonakis, K, Mayes, K & Fred, P 2005, 'Smart card based authentication - any future?', Computers and Security, vol. 24, no. 3, pp. 188-191.
+            
+                Rantos, K & Markantonakis, K 2004, An Asymmetric Cryptography Secure Channel Protocol for Smart Cards. in SEC'04. pp. 351-366.
+            
+                Markantonakis, K & Mayes, K 2004, A SECURE CHANNEL PROTOCOL FOR MULTI- APPLICATION SMART CARDS BASED ON PUBLIC KEY CRYPTOGRAPHY. in Eight IFIP TC-6-11 Conference on Communications and Multimedia Security. Kluwer Academic Publishers.
+            
+                Mayes, K, Al Hussein, M & Markantonakis, K 2004, Increasing Awareness of Smart card System Security Issues: Smart Card Technology International Journal. in M Locke (ed.), Smart Card Technology International Journal. Smart Card Technology International.
+            
+                Markantonakis, K & Mayes, K 2004, Smart Card Technology in the Public Transport Industry: Secure Magazine - The Silicon Trust Report. in Secure Magazine - The Silicon Trust Report. 1 edn, The Silicon Trust, pp. 26.
+            
+                Zhang, Q, Brites Moita, JN, Mayes, K & Markantonakis, K 2004, The Secure and Multiple Payment System based on the Mobile Phone Platform. in The Secure and Multiple Payment System based on the Mobile Phone Platform. Workshop on Information Security Applications, Jeju, Korea, Republic of, 1/08/04.
+            
+                Markantonakis, K & Mayes, K 2003, 'An overview of the GlobalPlatform smart card specification', Information Security Technical Report, vol. 8, no. 1, pp. 17 - 29. https://doi.org/DOI: 10.1016/S1363-4127(03)00103-1
+            
+                Mayes, K & Markantonakis, K 2003, 'Are we smart about security?', Information Security Technical Report, vol. 8, no. 1, pp. 6 - 16. https://doi.org/DOI: 10.1016/S1363-4127(03)00102-X
+            
+                Mayes, K & Markantonakis, K 2003, Smart Cards: Enabling e-Government: The Global Journal of Advanced Card Technology, Smart Card Technology International..
+            
+                Mayes, K & Markantonakis, K 2003, The Smart Card Centre at Royal Holloway University of London: Secure - the Silicon Trust Report. The Silicon Trust.
+            
+                Markantonakis, K 2001, Is the Performance of Smart Card Cryptographic Functions the Real Bottleneck? in Proceedings of the IFIP TC11 Sixteenth Annual Working Conference on Information Security: Trusted Information: The New Decade Challenge. IFIP/Sec '01, Kluwer, B.V., pp. 77-92.
+            
+                Markantonakis, K 2000, Secure Log File Download Mechanisms for Smart Cards. in Proceedings of the The International Conference on Smart Card Research and Applications. Springer-Verlag, London, UK, pp. 285-304. <http://dl.acm.org/citation.cfm?id=646692.703447>
+            
+                Markantonakis, K 1999, An Architecture for Audit Logging in a Smart Card Environment. in An Architecture for Audit Logging in a Smart Card Environment. E-Commerce and New Media: Managing Safety, Security and Malware Challenges Effectively, AALBORG, Denmark, 27/02/99.
+            
+                Markantonakis, K 1999, Boundary Conditions that Influence Decisions about Log File Formats in Multi-Application Smart Cards. in Proceedings of the Second International Conference on Information and Communication Security. Springer-Verlag, pp. 230-243.
+            
+                Markantonakis, K & Xenitellis, S 1999, Implementing a Secure Log File Download Manager for the Java Card. in Proceedings of the IFIP TC6/TC11 Joint Working Conference on Secure Information Networks: Communications and Multimedia Security. CMS '99, Kluwer, B.V., pp. 143-162.
+            
+                Markantonakis, K 1999, 'Information security technical report - prospectus: Interfacing with smartcard applications. (The OpenCard Framework and PC/SC)', Information Security Technical Report, vol. 4, pp. 7-8. https://doi.org/10.1016/S1363-4127(99)80025-9
+            
+                Markantonakis, K 1999, Interfacing with Smart Card Applications (The PC/SC and OpenCard Framework). in Interfacing with Smart Card Applications (The PC/ SC and OpenCard Framework). 2 edn, vol. 4, Elsevier, pp. 69.
+            
+                Markantonakis, K & Rantos, K 1999, On the Life Cycle of the Certification Authority key pairs in EMV'96. in On the Life Cycle of the Certification Authority key pairs in EMV'96. Society for Computer Simulation, pp. 125-130, EUROMEDIA 99, Munich, Germany, 25/04/99.
+            
+                Markantonakis, K 1998, 'Java card technology and security', Information Security Technical Report, vol. 3, no. 2, pp. 82 - 89.
+            
+                Markantonakis, K 1998, Secure Log File Download Mechanisms for Smart Cards. in CARDIS'98. pp. 285-304.
+            
+                Markantonakis, K 1998, The Case for a Secure Multi-Application Smart Card Operating System. in Proceedings of the First International Workshop on Information Security. ISW '97, Springer-Verlag, London, UK, pp. 188-197. <http://dl.acm.org/citation.cfm?id=648022.744180>
+            
