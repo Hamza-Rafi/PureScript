@@ -37,8 +37,10 @@ async function Main() {
     totalRefs = [...totalRefs, ...papers];
   }
   console.log("Total amount of papers:", totalRefs.length);
+  let counter = totalRefs.length;
   for (const r of totalRefs) {
-    console.log(r.replace('\n', ''));
+    console.log(`${counter}: ` + r.replace('\n', '').trim());
+    counter--;
   }
 }
 
