@@ -1,6 +1,8 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 
+// CHANGE THIS URL TO YOUR OWN URL.
+// BUT REMEMBER TO LEAVE THE SLASHES AT THE END.
 const url =
   "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?page=";
 
