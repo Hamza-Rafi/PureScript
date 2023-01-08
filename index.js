@@ -1,78 +1,117 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
+const fs = require('fs')
 
-// CHANGE THIS URL TO YOUR OWN URL.
-// BUT REMEMBER TO LEAVE THE SLASHES AT THE END.
-const url =
-  "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?page=";
+const papersUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?page=0";
+const conferenceContributionUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontobookanthology/conference&page="
+const chaptersUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontobookanthology/chapter&page="
+const articlesUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article&page="
+const otherContributionsUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/othercontribution/other&type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontobookanthology/other&page="
+const specialIssuesUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/special&page="
 
-const resSelector = "div.result-container > div > h3 > a";
-const citSelector = "div.tab-container > div#cite-harvard > div.rendering";
-const authorsSelector = 'p.relations';
-const linkSelector = 'div.link > a';
-const otherLinkSelector = 'div.doi > a';
+const linkSelector = "div.result-container > div > h3 > a";
 
-async function GetPagePapers(number) {
-  const page = await axios.get(url + number);
-  let $ = cheerio.load(page.data);
+async function GetPageElements(url, number) {
 
-  const papers = $(resSelector);
+    console.log(`Page: ${number}`)
+    const page = await axios.get(url + number);
+    let $ = cheerio.load(page.data);
 
+//   get all pagelinks for publications
+    const elementLink = $(linkSelector);
+    const links = [];
+    elementLink.each(function (_, elem) {
+        links.push(elem.attribs["href"]);
+    });
 
-  const links = [];
-  papers.each(function (_, elem) {
-      links.push(elem.attribs["href"]);
-  });
+//   fetch data from every page
+    const promiseList = links.map((l) => axios.get(l));
+    const data = await Promise.all(promiseList);
+    return data.map((d, i) => {
+        $ = cheerio.load(d.data);
 
-  const promiseList = links.map((l) => axios.get(l));
-  const data = await Promise.all(promiseList);
-  return data.map((d) => {
-    $ = cheerio.load(d.data);
-    const text = $(citSelector).text();
-    const textHtml = $('div.tab-container > div#cite-harvard > div.rendering').html();
+        const title = $('div.rendering>h1>span').text()
+        const titleLink = links[i]
+        const publishDate = $('tr.status>td>span.date').text()
+        const authorElement = $('p.relations.persons>a')
 
-    text.replace(/'/g, "");
+        const authorNames = $('p.relations.persons').text().split(', ')
 
-    const authors = $(authorsSelector).html();
+        const authors = []
+        authorElement.each(function(_, elem){
+            authors.push({
+                name: $(this).text(),
+                link: elem.attribs["href"]
+            })
+        })
 
-    const doi1 = $(linkSelector).attr()?.href;
-    const doi2 = $(otherLinkSelector).attr()?.href;
-    
-    const doi = doi1 === undefined ? doi2 : doi1;
+        // author formatting
+        authorNames.forEach((authorName, i) => {
+            authors.forEach(author => {
+                if(author.name == authorName){
+                    authorNames[i] = author
+                }
+            });
+        })
+        authorNames.forEach((element, i) => {
+            if(typeof element != 'object'){
+                authorNames[i] = {
+                    name: element
+                }
+            }
+        })
 
-    const split = textHtml.split(/[0-9]{4}/);
-    split.shift();
-    split[0] = split[0].slice(2);
+        return {
+            title: title,
+            titleLink: titleLink,
+            publishDate: publishDate,
+            authors: authorNames
+        }
+    });
+}
+async function GetElements(url){
+    let pageCounter = 0;
+    let papers = [0];
+    let totalRefs = [];
 
-    let returnText = split.reduce((p, n) => p + n, "");
-    const lastLink = returnText.lastIndexOf('<a onclick="window.open(this.href)');
-    if (lastLink > 2) {
-      returnText = returnText.slice(0, lastLink);
-      if (doi) {
-        returnText += `<a href="${doi}">${doi}</a>`
-      }
+    console.log(url)
+
+    while (papers.length > 0) {
+        papers = await GetPageElements(url, pageCounter);
+        
+        pageCounter++;
+        totalRefs = [...totalRefs, ...papers];
     }
 
-    return authors + " " + returnText;
-  });
+    console.log("Done")
+    return totalRefs
 }
 
 async function Main() {
-  let pageCounter = 0;
-  let papers = [0];
-  let totalRefs = [];
-  while (papers.length > 0) {
-    papers = await GetPagePapers(pageCounter);
-    pageCounter++;
-    totalRefs = [...totalRefs, ...papers];
-  }
-  console.log("Total amount of papers:", totalRefs.length);
-  let counter = totalRefs.length;
-  for (const r of totalRefs) {
-    console.log(`[${counter}] ` + r.replace('\n', '').trim());
-    console.log();
-    counter--;
-  }
+    console.log("started")
+    
+    var conferenceContributions = await GetElements(conferenceContributionUrl)
+    var chapters = await GetElements(chaptersUrl)
+    var articles = await GetElements(articlesUrl)
+    var papers = await GetElements(papersUrl);
+    var otherCOntributions = await GetElements(otherContributionsUrl)
+    var specialIssues = await GetElements(specialIssuesUrl)
+
+    jsonObj = {
+        "conference-contributions": conferenceContributions,
+        "chapters": chapters,
+        "articles": articles,
+        "papers": papers,
+        "other-contributions": otherCOntributions,
+        "special-issues": specialIssues
+    }
+
+    fs.writeFile('publications.json', JSON.stringify(jsonObj, null, 4), (err) => {
+        if (err){
+            console.log(err)
+        }
+    })
+
 }
 
 Main();
