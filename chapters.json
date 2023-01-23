@@ -1,0 +1,188 @@
+[
+    {
+        "title": "Security and Trust Management",
+        "publishDate": "18 September 2020",
+        "authors": [
+            {
+                "name": "Konstantinos Markantonakis"
+            },
+            {
+                "name": "Marinella Petrocchi"
+            }
+        ],
+        "journal": "16th International Workshop, STM 2020, co-located with the 25th European Symposium on Research in Computer Security, ESORICS 2020. Guildford, UK, September 17-18, 2020, Lecture Notes and Computer Science Proceedings, Pages: 148 pages, ISBN-10 : 3030598160"        
+    },
+    {
+        "title": "Information Security Theory and Practices, Smart cards, Mobile and Ubiquitous Computing Systems, First IFIP TC6/WG 8.8/ WG 11.2, International Workshop in Information Security Theory and Practices (WISTP)",
+        "publishDate": "",
+        "authors": [
+            {
+                "name": "Damien Sauveron"
+            },
+            {
+                "name": "Konstantinos Markantonakis"
+            },
+            {
+                "name": "Angelos Bilas"
+            },
+            {
+                "name": "Jean-Jacques Quisquater"
+            }
+
+        ],
+        "journal": "Lecture Notes in Computer Science (LNCS), Vol 4462, Pages 255, ISBN: 978-3-540-72353-0"
+        
+    },
+    {
+        "title": "Information Security Theory and Practices. Security and Privacy of Pervasive Systems and Smart Devices",
+        "publishDate": "12 April 2010",
+        "authors": [
+            {
+                "name": "P. Samarati"
+            },
+            {
+                "name": "M. Tunstall"
+            },
+            {
+                "name": "J. Posegga"
+            },
+            {
+                "name": "K. Markantonakis"
+            },
+            {
+                "name": "D. Sauveron (Eds.)"
+            }
+        ],
+        "journal": "Fourth IFIP WG 11.2 International Workshop, WISTP 2010, Passau, Germany, April 12-14, 2010. Springer Lecture Notes in Computer Science Series, Vol. 6033, 2010, 386 p. ISBN: 978-3-642-12367-2."
+        
+    },
+    {
+        "title": "Information Security Theory and Practices. Smart Devices, Convergence and Next Generation Networks.",
+        "publishDate": "13 May 2008",
+        "authors": [
+            {
+                "name": "J.A. Onieva"
+            },
+            {
+                "name": "D. Sauveron"
+            },
+            {
+                "name": "S. Chaumette"
+            },
+            {
+                "name": "D. Gollmann"
+            },
+            {
+                "name": "K. Markantonakis (Eds.)"
+            }
+        ],
+        "journal": "Second IFIP WG 11.2 International Workshop, WISTP 2008, Seville, Spain, May 13-16, 2008. Springer Lecture Notes in Computer Science Series, Vol. 5019, 2008, 151 p. ISBN: 978-3-540-79965-8."
+        
+    },
+    {
+        "title": "Information Security Theory and Practices. Smart Cards, Mobile and Ubiquitous Computing Systems",
+        "publishDate": "9 May 2007",
+        "authors": [
+            {
+                "name": "D. Sauveron"
+            },
+            {
+                "name": "K. Markantonakis"
+            },
+            {
+                "name": "A. Bilas"
+            },
+            {
+                "name": "A. J.-J. Quisquater (Eds.)"
+            }
+        ],
+        "journal": "First IFIP TC6 / WG 8.8 / WG 11.2 International Workshop, WISTP 2007, Heraklion, Crete, Greece, May 9-11, 2007. Springer Lecture Notes in Computer Science Series, Vol. 4462, 2007, 255p. ISBN: 978-3-540-72353-0."
+        
+    },
+    {
+        "title": "Special Issue on Advanced Semantic and Social Multimedia Technologies for Future Computing Environment Multimedia Tools and Applications",
+        "publishDate": "1 Jan 2013",
+        "authors": [
+            {
+                "name": "S. Rho"
+            },
+            {
+                "name": "D. Sauveron"
+            },
+            {
+                "name": "K. Markantonakis (Eds.)"
+            }
+        ],
+        "journal": "vol 64, No.2, 2013. Springer"
+        
+    },
+    {
+        "title": "Handbook of Technology Management, vol. 2, Supply Chain Management, Marketing and Advertising, and Global Management",
+        "publishDate": "1 Jan 2010",
+        "authors": [
+            {
+                "name": "Konstantinos Markantonakis"
+            },
+            {
+                "name": "Keith Mayes"
+            },
+            {
+                "name": "Damien Sauveron"
+            },
+            {
+                "name": "Michael Tunstall Chapter in H. Bidgoli, Ed."
+            }
+        ],
+        "journal": "pp. 248-264, Wiley, 2010",
+        "titleLink": "https://web.archive.org/web/20180331130522/http:/eu.wiley.com/WileyCDA/WileyTitle/productCd-047024948X,descCd-tableOfContents.html"
+    },
+    {
+        "title": "Handbook of Computer Networks",
+        "publishDate": "1 Jan 2007",
+        "authors": [
+            {
+                "name": "Konstantinos Markantonakis"
+            },
+            {
+                "name": "Keith Mayes"
+            },
+            {
+                "name": "Damien Sauveron"
+            },
+            {
+                "name": "Michael Tunstall Chapter in H. Bidgoli, Ed."
+            }
+        ],
+        "journal": "vol. 3, pp. 251-268, Wiley, 2007"
+        
+    },
+    {
+        "title": "Computational Intelligence in Information Assurance and Security, vol. 57 of Studies in Computational Intelligence",
+        "publishDate": "2 Jan 2007",
+        "authors": [
+            {
+                "name": "Konstantinos Markantonakis"
+            },
+            {
+                "name": "Keith Mayes"
+            },
+            {
+                "name": "Michael Tunstall"
+            },
+            {
+                "name": "Damien Sauveron"
+            },
+            {
+                "name": "Fred Piper Chapter in N. Nedjah"
+            },
+            {
+                "name": "Nedjah, A. Abraham"
+            },
+            {
+                "name": "L. M. Mourelle, Eds."
+            }
+        ],
+        "journal": "pp. 201-233, Springer-Verlag, 2007"
+        
+    }
+]

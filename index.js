@@ -4,7 +4,9 @@ import axios, { all } from 'axios'
 import cheerio from 'cheerio';
 // const fs = require('fs')
 import * as fs from 'fs'
+import { type } from 'os';
 // import data from './publications.json' assert {type: 'json'}
+import chapters from './chapters.json' assert {type: 'json'}
 
 const papersUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?page=0";
 
@@ -127,6 +129,7 @@ async function Main() {
     //     if(key == 'allPublications') {continue}
     //     allEntries.push(...value)
     // }
+    papers = [...papers, ...chapters]
 
     papers.sort((a, b) => {
         return new Date(b.publishDate) - new Date(a.publishDate)
