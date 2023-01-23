@@ -1,13 +1,12 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require('fs')
+// const axios = require("axios");
+import axios, { all } from 'axios'
+// const cheerio = require("cheerio");
+import cheerio from 'cheerio';
+// const fs = require('fs')
+import * as fs from 'fs'
+// import data from './publications.json' assert {type: 'json'}
 
 const papersUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?page=0";
-const conferenceContributionUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontobookanthology/conference&page="
-const chaptersUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontobookanthology/chapter&page="
-const articlesUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/article&page="
-const otherContributionsUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/othercontribution/other&type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontobookanthology/other&page="
-const specialIssuesUrl = "https://pure.royalholloway.ac.uk/en/persons/konstantinos-markantonakis/publications/?type=/dk/atira/pure/researchoutput/researchoutputtypes/contributiontojournal/special&page="
 
 const linkSelector = "div.result-container > div > h3 > a";
 
@@ -61,11 +60,36 @@ async function GetPageElements(url, number) {
             }
         })
 
+        // const placePublished = ${''}
+
+        const doiText = $('div.doi>a>span').text()
+        var doiLink;
+        $('div.doi>a.link').each(function (_, elem) {
+            doiLink = elem.attribs["href"];
+        });
+
+        var doi = {}
+        if(doiText != ''){
+            doi = {
+                text: doiText,
+                link: doiLink
+            }            
+        }
+
+        const linkText = $('div.link>a>span').text()
+
+        const journal = $('td>a.link[rel]>span').text()
+
+
+
         return {
             title: title,
             titleLink: titleLink,
             publishDate: publishDate,
-            authors: authorNames
+            authors: authorNames,
+            doi: doi,
+            links: linkText,
+            journal: journal
         }
     });
 }
@@ -87,31 +111,34 @@ async function GetElements(url){
     return totalRefs
 }
 
+
 async function Main() {
     console.log("started")
     
-    var conferenceContributions = await GetElements(conferenceContributionUrl)
-    var chapters = await GetElements(chaptersUrl)
-    var articles = await GetElements(articlesUrl)
+    // var conferenceContributions = await GetElements(conferenceContributionUrl)
+    // var chapters = await GetElements(chaptersUrl)
+    // var articles = await GetElements(articlesUrl)
+    // var otherCOntributions = await GetElements(otherContributionsUrl)
+    // var specialIssues = await GetElements(specialIssuesUrl)
     var papers = await GetElements(papersUrl);
-    var otherCOntributions = await GetElements(otherContributionsUrl)
-    var specialIssues = await GetElements(specialIssuesUrl)
 
-    jsonObj = {
-        "conference-contributions": conferenceContributions,
-        "chapters": chapters,
-        "articles": articles,
-        "papers": papers,
-        "other-contributions": otherCOntributions,
-        "special-issues": specialIssues
-    }
+    // var allEntries = []
+    // for(const [key, value] of Object.entries(jsonObj)){
+    //     if(key == 'allPublications') {continue}
+    //     allEntries.push(...value)
+    // }
+
+    papers.sort((a, b) => {
+        return new Date(b.publishDate) - new Date(a.publishDate)
+    })
+
+    var jsonObj = [...papers]
 
     fs.writeFile('publications.json', JSON.stringify(jsonObj, null, 4), (err) => {
         if (err){
             console.log(err)
         }
     })
-
 }
 
 Main();
